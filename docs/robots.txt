@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /amanda-data-ai/
+Sitemap: https://abmurtinho.github.io/amanda-data-ai/sitemap.xml
